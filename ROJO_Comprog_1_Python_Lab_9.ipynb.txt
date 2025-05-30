@@ -1,0 +1,41 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "AzeJQSIaxDt5",
+        "outputId": "8db1b7cb-9adf-401b-a003-df1789dacc0f"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello, version control!\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hello, version control!\")"
+      ]
+    }
+  ]
+}
